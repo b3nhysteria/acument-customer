@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Docker
+**/pgdata/
+
+# Test & Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pipenv
+Pipfile.lock
+
+# pytest
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ignore customer data if needed
+mock-server/data/*.json
+!mock-server/data/customers.json

@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "1",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "email": "alice.smith@example.com",
+    "phone": "555-1234",
+    "address": "123 Main St, Springfield, USA",
+    "date_of_birth": "1985-04-12",
+    "account_balance": 1200.50,
+    "created_at": "2022-01-15T10:00:00"
+  },
+  {
+    "customer_id": "2",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.johnson@example.com",
+    "phone": "555-5678",
+    "address": "456 Elm St, Springfield, USA",
+    "date_of_birth": "1990-07-23",
+    "account_balance": 850.75,
+    "created_at": "2022-02-20T14:30:00"
+  },
+  {
+    "customer_id": "3",
+    "first_name": "Carol",
+    "last_name": "Williams",
+    "email": "carol.williams@example.com",
+    "phone": "555-8765",
+    "address": "789 Oak St, Springfield, USA",
+    "date_of_birth": "1978-11-02",
+    "account_balance": 2300.00,
+    "created_at": "2022-03-10T09:15:00"
+  },
+  {
+    "customer_id": "4",
+    "first_name": "David",
+    "last_name": "Brown",
+    "email": "david.brown@example.com",
+    "phone": "555-4321",
+    "address": "321 Pine St, Springfield, USA",
+    "date_of_birth": "1982-05-18",
+    "account_balance": 410.20,
+    "created_at": "2022-04-05T16:45:00"
+  },
+  {
+    "customer_id": "5",
+    "first_name": "Eve",
+    "last_name": "Davis",
+    "email": "eve.davis@example.com",
+    "phone": "555-2468",
+    "address": "654 Maple St, Springfield, USA",
+    "date_of_birth": "1995-09-30",
+    "account_balance": 1750.00,
+    "created_at": "2022-05-12T11:20:00"
+  },
+  {
+    "customer_id": "6",
+    "first_name": "Frank",
+    "last_name": "Miller",
+    "email": "frank.miller@example.com",
+    "phone": "555-1357",
+    "address": "987 Cedar St, Springfield, USA",
+    "date_of_birth": "1988-12-14",
+    "account_balance": 980.40,
+    "created_at": "2022-06-18T13:10:00"
+  },
+  {
+    "customer_id": "7",
+    "first_name": "Grace",
+    "last_name": "Wilson",
+    "email": "grace.wilson@example.com",
+    "phone": "555-9753",
+    "address": "159 Birch St, Springfield, USA",
+    "date_of_birth": "1975-03-22",
+    "account_balance": 2100.00,
+    "created_at": "2022-07-25T08:55:00"
+  },
+  {
+    "customer_id": "8",
+    "first_name": "Henry",
+    "last_name": "Moore",
+    "email": "henry.moore@example.com",
+    "phone": "555-8642",
+    "address": "753 Walnut St, Springfield, USA",
+    "date_of_birth": "1983-10-10",
+    "account_balance": 1340.60,
+    "created_at": "2022-08-30T17:05:00"
+  },
+  {
+    "customer_id": "9",
+    "first_name": "Ivy",
+    "last_name": "Taylor",
+    "email": "ivy.taylor@example.com",
+    "phone": "555-3579",
+    "address": "852 Chestnut St, Springfield, USA",
+    "date_of_birth": "1992-06-17",
+    "account_balance": 670.80,
+    "created_at": "2022-09-14T12:40:00"
+  },
+  {
+    "customer_id": "10",
+    "first_name": "Jack",
+    "last_name": "Anderson",
+    "email": "jack.anderson@example.com",
+    "phone": "555-4682",
+    "address": "951 Poplar St, Springfield, USA",
+    "date_of_birth": "1987-01-29",
+    "account_balance": 1580.00,
+    "created_at": "2022-10-21T15:25:00"
+  },
+  {
+    "customer_id": "11",
+    "first_name": "Karen",
+    "last_name": "Thomas",
+    "email": "karen.thomas@example.com",
+    "phone": "555-7531",
+    "address": "357 Willow St, Springfield, USA",
+    "date_of_birth": "1979-08-05",
+    "account_balance": 900.00,
+    "created_at": "2022-11-11T10:10:00"
+  },
+  {
+    "customer_id": "12",
+    "first_name": "Leo",
+    "last_name": "Jackson",
+    "email": "leo.jackson@example.com",
+    "phone": "555-1597",
+    "address": "258 Aspen St, Springfield, USA",
+    "date_of_birth": "1984-02-16",
+    "account_balance": 120.00,
+    "created_at": "2022-12-01T09:00:00"
+  },
+  {
+    "customer_id": "13",
+    "first_name": "Mia",
+    "last_name": "White",
+    "email": "mia.white@example.com",
+    "phone": "555-9517",
+    "address": "654 Spruce St, Springfield, USA",
+    "date_of_birth": "1991-11-11",
+    "account_balance": 3000.00,
+    "created_at": "2023-01-10T14:50:00"
+  },
+  {
+    "customer_id": "14",
+    "first_name": "Nina",
+    "last_name": "Harris",
+    "email": "nina.harris@example.com",
+    "phone": "555-7539",
+    "address": "753 Redwood St, Springfield, USA",
+    "date_of_birth": "1986-04-04",
+    "account_balance": 450.00,
+    "created_at": "2023-02-15T11:35:00"
+  },
+  {
+    "customer_id": "15",
+    "first_name": "Oscar",
+    "last_name": "Martin",
+    "email": "oscar.martin@example.com",
+    "phone": "555-3571",
+    "address": "159 Cypress St, Springfield, USA",
+    "date_of_birth": "1989-09-09",
+    "account_balance": 210.00,
+    "created_at": "2023-03-20T13:15:00"
+  },
+  {
+    "customer_id": "16",
+    "first_name": "Paula",
+    "last_name": "Thompson",
+    "email": "paula.thompson@example.com",
+    "phone": "555-2469",
+    "address": "357 Magnolia St, Springfield, USA",
+    "date_of_birth": "1993-12-12",
+    "account_balance": 175.00,
+    "created_at": "2023-04-25T16:00:00"
+  },
+  {
+    "customer_id": "17",
+    "first_name": "Quinn",
+    "last_name": "Garcia",
+    "email": "quinn.garcia@example.com",
+    "phone": "555-4683",
+    "address": "951 Palm St, Springfield, USA",
+    "date_of_birth": "1981-07-07",
+    "account_balance": 800.00,
+    "created_at": "2023-05-30T18:20:00"
+  },
+  {
+    "customer_id": "18",
+    "first_name": "Rachel",
+    "last_name": "Martinez",
+    "email": "rachel.martinez@example.com",
+    "phone": "555-8643",
+    "address": "753 Hickory St, Springfield, USA",
+    "date_of_birth": "1980-10-10",
+    "account_balance": 950.00,
+    "created_at": "2023-06-15T12:10:00"
+  },
+  {
+    "customer_id": "19",
+    "first_name": "Sam",
+    "last_name": "Robinson",
+    "email": "sam.robinson@example.com",
+    "phone": "555-3572",
+    "address": "852 Dogwood St, Springfield, USA",
+    "date_of_birth": "1994-05-05",
+    "account_balance": 1100.00,
+    "created_at": "2023-07-20T09:30:00"
+  },
+  {
+    "customer_id": "20",
+    "first_name": "Tina",
+    "last_name": "Clark",
+    "email": "tina.clark@example.com",
+    "phone": "555-4684",
+    "address": "951 Alder St, Springfield, USA",
+    "date_of_birth": "1987-08-08",
+    "account_balance": 2200.00,
+    "created_at": "2023-08-25T15:40:00"
+  }
+]
